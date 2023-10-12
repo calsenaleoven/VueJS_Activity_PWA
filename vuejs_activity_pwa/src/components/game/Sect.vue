@@ -175,7 +175,7 @@
     <!-- contact section end -->
     <!-- footer section start -->
     <div class="section_footer ">
-        <div class="container"> 
+      <div class="container"> 
             <div class="footer_section_2">
               <div class="row">
                   <div class="col-sm-6 col-md-6 col-lg-3">
@@ -217,7 +217,8 @@
     <!-- copyright section start -->
     <div class="copyright_section">
       <div class="container">
-        <p class="copyright_text">Copyright 2020 All Right Reserved By <a href="https://html.design/"></a> Free html Templates</p>
+        <p class="copyright_text">Copyright 2020 All Rights Reserved By <a href="https://html.design/">HTML Design</a> Free HTML Templates</p>
       </div>
     </div>
+  </div>
   </template>
